@@ -11,6 +11,20 @@
 
 }
 
+.button-light {
+    height: 45px;
+    width: 180px;
+    border: none;
+    border-radius: 20px;
+    color: blue;
+    font-size: 20px;
+    padding: 5;
+}
+
+.button-light:hover {
+    background-color: rgb(228, 214, 214);
+}
+
 .bg-color-footer {
     background-color: #0B0D17;
 }
