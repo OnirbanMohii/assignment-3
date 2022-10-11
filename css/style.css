@@ -1,0 +1,12 @@
+.button-background {
+    text-decoration: none;
+    color: blue;
+    height: 50px;
+    width: 170px;
+    padding: 3px;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+    border-radius: 10px;
+
+}
