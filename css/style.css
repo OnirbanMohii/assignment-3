@@ -39,3 +39,19 @@
     width: 31%;
     margin-left: -10px;
 }
+
+/* responsive website  */
+@media only screen and(max-width:767px) {
+    .navvar-nav {
+        text-align: center;
+    }
+
+    .carousel-caption {
+        background-origin: 125px;
+    }
+
+    .carousel-caption h2 {
+        padding: 10px 15px;
+        font-size: 15px;
+    }
+}
